@@ -12,12 +12,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: #d7bcf6;
+    color: #8E85D4; /* color name */
 }
 
 .container {
     text-align: center;
-    background-color: #6a3ad5;
+    background-color: #2D1B5A; /* color of the background */
     border-radius: 10px;
     padding: 30px;
     width: 300px;
@@ -42,7 +42,7 @@ h1 {
 
 p {
     font-size: 16px;
-    color: #2f2178;
+    color: #EAE6FF; /* color of the text */ 
     margin-bottom: 20px;
 }
 
@@ -58,8 +58,8 @@ p {
     justify-content: flex-start; 
     gap: 8px; 
     padding: 10px 15px; 
-    background-color: #5e47ff;
-    color: #d7bcf6;
+    background-color: #5A5ABF; /* color of the background */
+    color: #C6C3E6; /* color of the text */
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
@@ -71,22 +71,21 @@ p {
     height: 24px; 
     display: block;
     margin-right: 8px; 
-    border-right: 2px solid #1b0d60; 
+    border-right: 2px solid #1b0d60; /* color of the text */
     padding-right: 8px; 
 }
 
 .link-btn:hover {
-    background-color: #4922ff;
+    background-color: #8E8ECF; /* color of the background */
 }
 
-
+/* color icons social media */
 .icon {
-    width: 24px; 
-    height: 24px; 
+    fill: #8e8ecf; 
 }
 
 footer {
     margin-top: 20px;
     font-size: 14px;
-    color: #2f2178;
+    color: #A393E5; /* color author */
 }
